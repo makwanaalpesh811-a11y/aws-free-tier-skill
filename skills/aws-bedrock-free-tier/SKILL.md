@@ -1,9 +1,20 @@
 ---
 name: aws-bedrock-free-tier
+description: "AWS Bedrock Free-Tier Reality"
+version: 1.0.0
+author: Alpesh Makwana
+license: MIT
+platforms: [linux]
+---
+
+name: aws-bedrock-free-tier
 version: 1.0
 description: "Use when user wants free AI on AWS Bedrock. Models gated."
 tags: [aws, bedrock, free-tier, ai-api, image-generation, polly, llama, claude, nova]
 related_skills: [aws-free-ai-access]
+author: Alpesh Makwana
+license: MIT
+platforms: [linux, macos]
 ---
 
 # AWS Bedrock Free-Tier Reality

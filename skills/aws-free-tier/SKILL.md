@@ -1,6 +1,18 @@
 ---
 name: aws-free-tier
+description: "AWS Free Tier on Termux"
+version: 1.0.0
+author: Alpesh Makwana
+license: MIT
+platforms: [linux]
+---
+
+name: aws-free-tier
 description: Use AWS Free Tier on Termux for Polly TTS, S3, Lambda.
+version: 1.0.0
+author: Alpesh Makwana
+license: MIT
+platforms: [linux, macos]
 ---
 
 # AWS Free Tier on Termux

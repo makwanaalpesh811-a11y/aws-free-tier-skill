@@ -1,9 +1,20 @@
 ---
 name: aws-free-ai-access
+description: "Free VPS + Free AI API (2026)"
+version: 1.0.0
+author: Alpesh Makwana
+license: MIT
+platforms: [linux]
+---
+
+name: aws-free-ai-access
 version: 1.0
 description: "Free VPS + free AI API tiers for 24/7 Hermes agent."
 tags: [aws, vps, free-tier, llm-api, hosting, setup]
 related_skills: [hermes-agent, telegram-gateway-setup]
+author: Alpesh Makwana
+license: MIT
+platforms: [linux, macos]
 ---
 
 # Free VPS + Free AI API (2026)
